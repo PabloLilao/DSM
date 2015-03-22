@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="LugaresInteresGenNHibernate"
+		                   namespace="LugaresInteresGenNHibernate.EN.LugaresInteres">
+			<class name="ActividadEN" table="[Actividad]">
+						<id name="Tipo" column="[Tipo]"/>
+					<property name="Descripcion" type="string"> 
+						<column name="[Descripcion]"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<bag name="Grupo" >
+							<key>
+								<column name="[FK_Tipo_idActividad_0]"/>
+					      	</key>
+							<one-to-many class="LugaresInteresGenNHibernate.EN.LugaresInteres.GrupoEN"/>
+					    </bag>
+					
+					
+					
+					
+		
+		  </class>
+		  
+		  <query name="ActividadENReadAllHQL">from ActividadEN</query>
+		  <query name="ActividadENbuscarActividadHQL"><![CDATA[from ActividadEN as a where a.Tipo = :p_tipo]]></query>
+		</hibernate-mapping>
+	

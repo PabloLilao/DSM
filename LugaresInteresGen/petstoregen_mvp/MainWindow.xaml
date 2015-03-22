@@ -1,0 +1,31 @@
+﻿<Window x:Class="LugaresInteresGen_MVP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="777" Width="996"   >
+    
+        
+   
+    <ScrollViewer Height="733" Width="968">
+        <Grid Height="734" Width="980" >
+            <Grid.Background>
+                <ImageBrush    AlignmentY="Top" AlignmentX="Center" ImageSource="/PetstoreGen_PageController;component/images/fondo1.jpg"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="88*" />
+                <RowDefinition Height="646*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="184*" />
+                <ColumnDefinition Width="127*" />
+                <ColumnDefinition Width="669*" />
+            </Grid.ColumnDefinitions>
+            <!--
+          <Frame Height="200" HorizontalAlignment="Left" Margin="16,386,0,0" Name="frameContenido" VerticalAlignment="Top" Width="974" Navigated="frame1_Navigated"/>
+           <Frame Height="300" HorizontalAlignment="Left" Margin="16,186,0,0" Name="frameContenido2" VerticalAlignment="Top" Width="974" Navigated="frame1_Navigated"/>
+ -->
+            <Frame Height="168" HorizontalAlignment="Center" Margin="1,0,15,0" Name="frame1" VerticalAlignment="Top" Width="965" Source="views\Cabecera.xaml" Grid.ColumnSpan="3" Grid.RowSpan="2" Navigated="frame1_Navigated" Cursor="Arrow" />
+            <Frame Margin="0,110,36,14" Name="Contenido" Navigated="frame1_Navigated" Grid.ColumnSpan="3" Grid.Row="1"  />
+            
+    </Grid>
+    </ScrollViewer >
+</Window>

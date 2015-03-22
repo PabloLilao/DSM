@@ -1,0 +1,28 @@
+﻿<Page x:Class="LugaresInteresGen_MVP.views.Usuario"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="990"
+	Title="Usuarios" Name="Usuarios">
+
+    <Grid>
+        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" Height="359" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="95,141,0,0" Name="dataGridProductos" VerticalAlignment="Top" Width="765" FontSize="15" RowHeight="40" Background="#72BFD859" ItemsSource="{Binding}" SelectionChanged="dataGridProductos_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Email" Width="190" Binding="{Binding Email}"/>
+                <DataGridTextColumn Header="Nombre" Width="100" Binding="{Binding Nombre}"/>
+                <DataGridTextColumn Header="Apellidos" Width="200" Binding="{Binding Apellidos}"/>
+                <DataGridTextColumn Header="Poblacion" Width="200" Binding="{Binding Poblacion}"/>
+                <DataGridTemplateColumn Header="Foto" Width="80" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Foto}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Usuario" Height="61" HorizontalAlignment="Left" Margin="94,32,0,0" Name="label1" VerticalAlignment="Top" Width="439" FontSize="36" />
+    </Grid>
+</Page>

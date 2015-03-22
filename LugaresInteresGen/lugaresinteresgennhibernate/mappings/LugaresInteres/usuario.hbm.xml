@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="LugaresInteresGenNHibernate"
+		                   namespace="LugaresInteresGenNHibernate.EN.LugaresInteres">
+			<class name="UsuarioEN" table="[Usuario]">
+						<id name="Email" column="[email]"/>
+					<property name="Nombre" type="string"> 
+						<column name="[nombre]"  unique="true" not-null="true"/>
+					</property>
+					<property name="Apellidos" type="string"> 
+						<column name="[apellidos]"  unique="true" not-null="true"/>
+					</property>
+					<property name="Contrasenya" type="string"> 
+						<column name="[contrasenya]"  unique="true" not-null="true"/>
+					</property>
+					<property name="Poblacion" type="string"> 
+						<column name="[poblacion]"  not-null="true"/>
+					</property>
+					<property name="Foto" type="string"> 
+						<column name="[foto]"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+			
+		  			
+						<bag name="Voto" >
+							<key>
+								<column name="[FK_email_idUsuario]"/>
+					      	</key>
+							<one-to-many class="LugaresInteresGenNHibernate.EN.LugaresInteres.VotoEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Comentario" >
+							<key>
+								<column name="[FK_email_idUsuario]"/>
+					      	</key>
+							<one-to-many class="LugaresInteresGenNHibernate.EN.LugaresInteres.ComentarioEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Grupo" >
+							<key>
+								<column name="[FK_email_idUsuario]"/>
+					      	</key>
+							<one-to-many class="LugaresInteresGenNHibernate.EN.LugaresInteres.GrupoEN"/>
+					    </bag>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		  </class>
+		  
+		  <query name="UsuarioENReadAllHQL">from UsuarioEN</query>
+		</hibernate-mapping>
+	

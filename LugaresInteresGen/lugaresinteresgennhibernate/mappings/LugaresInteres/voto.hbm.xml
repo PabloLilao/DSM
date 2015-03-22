@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="LugaresInteresGenNHibernate"
+		                   namespace="LugaresInteresGenNHibernate.EN.LugaresInteres">
+			<class name="VotoEN" table="[Voto]">
+				  	
+						<id name="Id" column="[id]" type="integer">
+							<generator class="identity"/>
+						</id>
+					<property name="Puntuacion" type="integer"> 
+						<column name="[puntuacion]"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<many-to-one name="Usuario" class="LugaresInteresGenNHibernate.EN.LugaresInteres.UsuarioEN" >	
+								<column name="[FK_email_idUsuario]"/>
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Lugar" class="LugaresInteresGenNHibernate.EN.LugaresInteres.LugarEN" >	
+								<column name="[FK_nombre_idLugar]"/>
+						</many-to-one>
+											 					
+					
+					
+					
+					
+		
+		  </class>
+		  
+		  <query name="VotoENReadAllHQL">from VotoEN</query>
+		</hibernate-mapping>
+	

@@ -1,0 +1,80 @@
+0    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - --------------------------------------------------------------------------------------
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - EMF Modeling Workflow Engine 1.2.1, Build v201306110341
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - (c) 2005-2009 openarchitectureware.org and contributors
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - --------------------------------------------------------------------------------------
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - running workflow: C:/Users/leti/workspaceDSM/LugaresInteres/templates/workflow/generator.mwe
+2    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - 
+335  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Registering platform uri 'C:\Users\leti\workspaceDSM'
+693  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Adding generated EPackage 'es.ua.dlsi.ooh.conceptualView.ConceptualViewPackage'
+762  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Adding generated EPackage 'org.eclipse.gmf.runtime.notation.NotationPackage'
+866  [main] INFO  e.core.container.CompositeComponent  - Workflow: executing workflow workflow::nhibernate::generator.mwe in C:/Users/leti/workspaceDSM/LugaresInteres/templates/workflow/generator.mwe:10
+866  [main] INFO  e.core.container.CompositeComponent  - XmiReader: file 'models/default.domainModel' => slot 'es_ua_dlsi_ooh_conceptual_model'
+1028 [main] INFO  e.core.container.CompositeComponent  - CheckComponent: slot es_ua_dlsi_ooh_conceptual_model check file(s): metamodel::Checks 
+1429 [main] INFO  e.core.container.CompositeComponent  - Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [../LugaresInteresGen, CONFIGURATION:../LugaresInteresGen(overwrite=false,append=false,fileEncoding=utf-8)]
+configuroConf:C:\Windows\TEMP\OOH4RIA1537471726612426293.cfg
+enc:utf-8
+1670 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Source scan started ...
+1921 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Source scan finished in 0.251s
+1921 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Files scanned: 189
+1921 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Regions found: 10
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+6139 [main] INFO         org.eclipse.xpand2.Generator  - Written 7 files to outlet [default](../LugaresInteresGen)
+6139 [main] INFO         org.eclipse.xpand2.Generator  - Skipped writing of 56 files to outlet [default](../LugaresInteresGen)
+6139 [main] INFO  e.core.container.CompositeComponent  - es.ua.dlsi.ooh.persistence.nhibernate.generator.workflowComponents.CreateSolution
+6150 [main] INFO  e.core.container.CompositeComponent  - es.ua.dlsi.ooh.persistence.nhibernate.generator.workflowComponents.UpdateSolution
+6162 [main] INFO  e.core.container.CompositeComponent  - es.ua.dlsi.ooh.persistence.nhibernate.generator.workflowComponents.CopyDLLs
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\Antlr3.Runtime.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\Castle.DynamicProxy2.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\Iesi.Collections.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\LinFu.DynamicProxy.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\log4net.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\NHibernate.ByteCode.Castle.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\NHibernate.ByteCode.LinFu.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\NHibernate.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\nunit.core.dll
+../LugaresInteresGen\LugaresInteresGenNHibernate\AppLib\nunit.framework.dll
+6168 [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - workflow completed in 5303ms!

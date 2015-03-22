@@ -1,0 +1,129 @@
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe.config
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.exe
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.pdb
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.g.cs
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.g.cs
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController_MarkupCompile.cache
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.g.resources
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\hibernate.cfg.xml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.pdb
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\LugaresInteresGenNHibernate.dll
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\LugaresInteresGenNHibernate.pdb
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.g.cs
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.baml
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.baml
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.baml
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.baml
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.g.cs
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.g.cs
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.g.cs
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\App.g.cs
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController_MarkupCompile.cache
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.g.resources
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.Properties.Resources.resources
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\hibernate.cfg.xml
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe.config
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.pdb
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\LugaresInteresGenNHibernate.dll
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\master8GENCP.dll
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\master8GENCP.pdb
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\LugaresInteresGenNHibernate.pdb
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.exe
+C:\Users\leti\Desktop\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.pdb
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe.config
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.exe
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.pdb
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.g.cs
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe.config
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\LugaresInteresGen_WPF_MVP.csprojResolveAssemblyReference.cache
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.baml
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.baml
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.baml
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.baml
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.baml
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.g.cs
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.g.cs
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.g.cs
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.g.cs
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.g.cs
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\App.g.cs
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController_MarkupCompile.cache
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.g.resources
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.Properties.Resources.resources
+E:\Archivos del sistema\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\LugaresInteresGen_WPF_MVP.csproj.GenerateResource.Cache
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe.config
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\CrearGrupo.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Registro.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\CrearGrupo.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Registro.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\App.g.cs
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController_MarkupCompile.cache
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.g.resources
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.Properties.Resources.resources
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Inicio.baml
+C:\Users\leti\Desktop\DSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Inicio.g.cs
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\CrearGrupo.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Inicio.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Registro.baml
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\CrearGrupo.g.cs
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Inicio.g.cs
+C:\Documents and Settings\Usuario\Escritorio\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Registro.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\hibernate.cfg.xml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.exe
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\PetstoreGen_PageController.pdb
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\LugaresInteresGenNHibernate.dll
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\bin\Debug\LugaresInteresGenNHibernate.pdb
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\LugaresInteresGen_WPF_MVP.csprojResolveAssemblyReference.cache
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\CrearGrupo.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Inicio.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Registro.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\CrearGrupo.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Inicio.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Registro.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\LugarNuevo.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Lugar.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Usuario.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\App.g.cs
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController_MarkupCompile.cache
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.g.resources
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\PetstoreGen_PageController.Properties.Resources.resources
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\LugaresInteresGen_WPF_MVP.csproj.GenerateResource.Cache
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera2.baml
+C:\Users\leti\workspaceDSM\LugaresInteresGen\PetstoreGen_MVP\obj\x86\Debug\views\Cabecera2.g.cs

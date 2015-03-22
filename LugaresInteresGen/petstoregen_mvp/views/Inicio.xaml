@@ -1,0 +1,28 @@
+﻿<Page x:Class="LugaresInteresGen_MVP.views.Inicio"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="968"
+	Title="Lugares" Name="LugaresDeInteres">
+
+    <Grid Height="500">
+        <Label Content="Los más votados" HorizontalAlignment="Left" Margin="72,-11,0,457" Name="label1" Width="285" FontSize="28" />
+        <Image Height="208" HorizontalAlignment="Left" Margin="72,80,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="285" />
+        
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="143,306,0,0" Name="textBlock1" Text="Mejor valorados:" VerticalAlignment="Top" Width="259" />
+        <Image Height="71" HorizontalAlignment="Left" Margin="72,344,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="102" />
+        <Image Height="71" HorizontalAlignment="Left" Margin="200,344,0,0" Name="image3" Stretch="Fill" VerticalAlignment="Top" Width="98" />
+        <Image Height="71" HorizontalAlignment="Left" Margin="327,344,0,0" Name="image4" Stretch="Fill" VerticalAlignment="Top" Width="93" />
+        <Image Height="71" HorizontalAlignment="Left" Margin="444,344,0,0" Name="image5" Stretch="Fill" VerticalAlignment="Top" Width="97" />
+        <Image Height="369" HorizontalAlignment="Left" Name="mapi" Stretch="Fill" VerticalAlignment="Top" Width="293"  Source="/PetstoreGen_PageController;component/images/mapi2.png" Margin="575,131,0,0" />
+
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="619,20,0,0" Name="textBlock2" Text="Usuario:" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="619,67,0,0" Name="textBlock3" Text="Contraseña:" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="699,20,0,0" Name="email" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="699,67,0,0" Name="contrasenya" VerticalAlignment="Top" Width="120" />
+        <Button Content="Iniciar sesión" Height="23" HorizontalAlignment="Left" Margin="619,109,0,0" Name="botonLogin" VerticalAlignment="Top" Width="106" Click="button1_Click_Login" />
+        <Rectangle Height="159" HorizontalAlignment="Left" Margin="600,0,0,0" Name="rectangle1" Stroke="Black" VerticalAlignment="Top" Width="247" />
+    </Grid>
+</Page>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="LugaresInteresGenNHibernate"
+		                   namespace="LugaresInteresGenNHibernate.EN.LugaresInteres">
+			<class name="AdministradorEN" table="[Administrador]">
+						<id name="Email" column="[email]"/>
+					<property name="Contraseña" type="string"> 
+						<column name="[contraseña]"  unique="true" not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<bag name="Lugar" >
+							<key>
+								<column name="[FK_email_idAdministrador]"/>
+					      	</key>
+							<one-to-many class="LugaresInteresGenNHibernate.EN.LugaresInteres.LugarEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Comentario" >
+							<key>
+								<column name="[FK_email_idAdministrador]"/>
+					      	</key>
+							<one-to-many class="LugaresInteresGenNHibernate.EN.LugaresInteres.ComentarioEN"/>
+					    </bag>
+					
+					
+					
+					
+					
+		
+		  </class>
+		  
+		  <query name="AdministradorENReadAllHQL">from AdministradorEN</query>
+		</hibernate-mapping>
+	
